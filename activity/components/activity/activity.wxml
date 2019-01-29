@@ -1,0 +1,9 @@
+<view class='single-activity-component'>
+  <view class='poster-wrapper'>
+    <image
+      src="{{activity.posterUrl}}"
+      class='poster'
+      mode='scaleToFill'
+    />
+  </view>
+</view>

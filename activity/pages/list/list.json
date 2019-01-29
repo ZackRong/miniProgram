@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "活动列表",
+  "backgroundColor": "#EFEFF4",
+  "usingComponents": {
+    "activity": "../../../components/activity/activity"
+  }
+}

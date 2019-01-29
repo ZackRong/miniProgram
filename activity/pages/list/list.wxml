@@ -1,0 +1,1 @@
+<activity wx:for="{{activities}}" wx:key="activityId" activity="{{item}}" />

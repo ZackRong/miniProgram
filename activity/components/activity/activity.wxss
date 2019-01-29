@@ -1,0 +1,8 @@
+.single-activity-component{
+  padding: 32rpx 20rpx;
+  margin-bottom: 20rpx;
+}
+.single-activity-component .poster-wrapper .poster{
+  width:100%;
+  height: 400rpx;
+}
